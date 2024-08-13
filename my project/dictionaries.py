@@ -1,5 +1,5 @@
 student_info= {
-    "student1": {
+    '''"student1": {
         "name" : "Rashik",
         "roll" : "33",
         "class" : "12",
@@ -26,4 +26,4 @@ student_info["student2"].update({"section": "arts"})
 print(student_info["student2"])
 x= student_info["student1"].get("number")
 print(x)
-print(student_info.values())
+print(student_info.values())'''
